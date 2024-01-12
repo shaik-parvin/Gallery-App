@@ -1,0 +1,27 @@
+/* Write your code here. */
+.active-container {
+  opacity: initial;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.item-container {
+  opacity: 0.5;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.button {
+  outline: none;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.img {
+  height: 90px;
+  width: 90px;
+  border-radius: 8px;
+  border-width: 0px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
